@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi, I a, joeylee 👋
+![](https://github-readme-stats.vercel.app/api?username=TheBeatles1994&show_icons=true&hide=stars)
+
 
 <!--
 **joeyleeeeeee97/joeyleeeeeee97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
